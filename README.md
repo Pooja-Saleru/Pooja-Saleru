@@ -1,8 +1,7 @@
--Hey  :(Hi.gif) / ! (Hi. gif): i'm **Pooja**
-- 👀 I’m interested in Java, web development, 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-Hey :wave: i'm **Pooja**
+- I’m Open-Source enthusiast. 
+- :woman_technologist: I am passionate about Kubernetes, Web Dev, DevOps & I enjoy exploring new things. 
+
 
 <!---
 Pooja-Saleru/Pooja-Saleru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
