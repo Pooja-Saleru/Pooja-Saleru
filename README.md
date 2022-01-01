@@ -1,4 +1,4 @@
--**Hey,** <p><img align="left" alt="gif" src="https://github.com/Pooja-Saleru/Pooja-Saleru/blob/main/Hi.gif" width="100" height="100"/></p>i'm **Pooja**
+-**Hey** <img src="https://github.com/Pooja-Saleru/Pooja-Saleru/blob/main/Hi.gif" width="29px"/>, I'm **Pooja!**
 - I’m Open-Source enthusiast. 
 - :woman_technologist: I am passionate about Kubernetes, Web Dev, DevOps & I enjoy exploring new things. 
 
