@@ -1,31 +1,21 @@
-**Hey** <img src="https://github.com/Pooja-Saleru/Pooja-Saleru/blob/main/Hi.gif" width="29px"/>, **I'm Pooja!**
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=23&height=60&lines=+Heey!+Welcome+to+Pooja+Saleru's+GitHub+Profile...)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/poojasaleru/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://twitter.com/Pooja_Saleru">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:salerupooja@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://www.instagram.com/codeitguyz/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<br/>
-<br/>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Pooja-Saleru.Pooja-Saleru)
-
-- Want to be Active in Github 365 Days of this Year(2022).
-- Right Now Learning Java and Solving DSA problems.
-- OpenSource Enthusiastic 
-- Love **Reading Books**
-- Follow me in Socials 
+- 🌱 I’m currently Working In IBM as Associate System Engineer
+- Simultaniously performing #100daysofcode
+- 👯 I’m looking to collaborate on OpenSource Projects
+- ✒ You can check out my Blogs [PoojaSaleru](https://hashnode.com/@PoojaSaleru)
+- 📫 How to reach me: pujasaleru@gmail.com
 
 
-<!---
-Pooja-Saleru/Pooja-Saleru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="270px" width="270px"> </p>
+
+## Current Stats
+
+|   ![PoojasGH's github activity graph](https://activity-graph.herokuapp.com/graph?username=PoojasGH&theme=rogue) |
+| :---: |
+
+| ![PoojasGH's GitHub stats](https://github-readme-stats.vercel.app/api?username=PoojasGH&show_icons=true&theme=city_lights) | ![PoojasGH's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PoojasGH&theme=city-lights) |
+| :---: | :---: |
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PoojasGH&theme=city_lights) |
+| :---: |
