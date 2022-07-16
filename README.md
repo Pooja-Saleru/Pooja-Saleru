@@ -1,7 +1,7 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=23&height=60&lines=+Heey!+Welcome+to+Pooja+Saleru's+GitHub+Profile...)](https://git.io/typing-svg)
 
 - 🌱 I’m currently Working In IBM as Associate System Engineer
-- Simultaniously performing #100daysofcode
+- 💯 Simultaniously performing #100daysofcode
 - 👯 I’m looking to collaborate on OpenSource Projects
 - ✒ You can check out my Blogs [PoojaSaleru](https://hashnode.com/@PoojaSaleru)
 - 📫 How to reach me: pujasaleru@gmail.com
