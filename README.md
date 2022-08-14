@@ -4,7 +4,7 @@
 - 💯 Simultaniously performing #100daysofcode
 - 👯 I’m looking to collaborate on OpenSource Projects
 - ✒ You can check out my Blogs [PoojaSaleru](https://hashnode.com/@PoojaSaleru)
-- 📫 How to reach me: pujasaleru@gmail.com
+- 📫 How to reach me: pujasaleru@gmail.com.
 
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="270px" width="270px"> </p>
