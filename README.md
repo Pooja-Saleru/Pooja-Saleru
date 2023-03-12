@@ -9,10 +9,6 @@
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="270px" width="270px"> </p>
 
 ## Current Stats
-
-|   ![PoojasGH's github activity graph](https://activity-graph.herokuapp.com/graph?username=PoojasGH&theme=rogue) |
-| :---: |
-
 | ![PoojasGH's GitHub stats](https://github-readme-stats.vercel.app/api?username=PoojasGH&show_icons=true&theme=city_lights) | ![PoojasGH's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PoojasGH&theme=city-lights) |
 | :---: | :---: |
 
