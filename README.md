@@ -1,5 +1,5 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=23&height=60&lines=+Heey!+Welcome+to+Pooja+Saleru's+GitHub+Profile...)](https://git.io/typing-svg)
-- 🌱 I’m currently looking for SDET 1/Software Quality Engineer and SDE/SWE Role
+- 🌱 I’m currently QA analyst in LSEG
 - Tech enthusiast who is passionate about both Development and Automation Testing
 - Actively upskilling myself in DSA, MERN, and automation testing (UI and API)
 - Check out my socials to track my learnings
